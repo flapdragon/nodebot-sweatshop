@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/flapdragon/nodebot-sweatshop#readme",
   "dependencies": {
+    "dnode": "^1.2.2",
     "johnny-five": "^0.13.0"
   }
 }
