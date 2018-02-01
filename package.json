@@ -1,0 +1,23 @@
+{
+  "name": "nodebot-sweatshop",
+  "version": "1.0.0",
+  "description": "Going through exercises on nodebot-workshop.",
+  "main": "blink-blink-jars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flapdragon/nodebot-sweatshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flapdragon/nodebot-sweatshop/issues"
+  },
+  "homepage": "https://github.com/flapdragon/nodebot-sweatshop#readme",
+  "dependencies": {
+    "johnny-five": "^0.13.0"
+  }
+}
